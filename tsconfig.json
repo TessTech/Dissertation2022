@@ -104,6 +104,8 @@
   //(TypeScript)
   //(AissaDevLab 2020)
   //(Npm docs)
+  //(Chrome developers, 2012 [edited: 2018])
+
 
   /*
   Reference list:
@@ -119,5 +121,6 @@
   npm docs. Npm-init. Available at: https://docs.npmjs.com/cli/v8/commands/npm-init [Accessed: 6 July 2022] 
 
   //The bellow references is relevent for the manifest.json file however comments can not be left in the manifest.json file
-  (Chrome developers, 2012 [edited: 2018])
+  Chrome developers, 2012 [edited: 2018]. Manifest file format. Available at: https://developer.chrome.com/docs/extensions/mv2/manifest/ [Accessed: 6 July 2022]
+
   */
